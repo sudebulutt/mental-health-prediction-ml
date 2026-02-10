@@ -1,4 +1,7 @@
+📝 PROJE DETAYLARI
+
 🧠 Mental Sağlık Geçmişi Tahminleme (2025)
+
 Amaç: Bireylerin yaşam tarzı, demografik bilgileri ve iş durumlarına dayanarak geçmişte ruhsal bir rahatsızlık yaşayıp yaşamadıklarını (History of Mental Illness) yüksek doğrulukla tahmin etmek.
 
 🛠️ Metodoloji ve Güncellemeler
